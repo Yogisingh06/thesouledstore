@@ -214,7 +214,7 @@ footer{
         display: none;
     }
     .coll{
-        display: none;
+        display: none !important;
     }
     
     
