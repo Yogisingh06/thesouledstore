@@ -2,6 +2,10 @@
 font-family: 'Source Sans 3', sans-serif;;
 
 }
+.develop{
+    text-align: center;
+    margin-top: 28px;
+}
 .prolist h5{
     font-size: 14px;
     border-bottom: 1px rgba(0, 0, 0, 0.13) solid;
